@@ -36,7 +36,7 @@ Key Business Insights  **
      - *Monster Hunter* → Strong in Japan, modest elsewhere  
      - *FIFA* series → Dominant in Europe, lower in Japan  
 
-**🛠️ Technical Process (The Workflow)  **
+**Technical Process (The Workflow)  **
 
 **Data Preparation & ETL: ** 
 - Cleaned and structured the VG_Chartz24 table to ensure consistency in regional naming.  
@@ -57,7 +57,7 @@ Key Business Insights  **
 
 ---
 
-### 📸 Dashboard Screenshot
+### Dashboard Screenshot
 
 <img width="431" height="242" alt="Videogames Dashboard" src="https://github.com/user-attachments/assets/d9fbc518-f510-4ec9-a064-93cb8a86995f" />
 
