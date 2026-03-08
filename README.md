@@ -10,13 +10,20 @@ Volume: Comprehensive transactional records covering games from 1980 to 2015+.
 Scope: Global data including Region (NA, EU, JP, Others), Genre, Console/Platform, and Critic Scores.
 
 🎯 Project Overview
-This dashboard was developed to answer key industry questions:
+## 📊 Recommended Analysis & Key Insights
 
-Regional Dominance: Which regions contribute the most to a game's total revenue?.
+**1. Which titles sold the most worldwide?**  
+Globally, the top‑selling video game of all time is **Minecraft** with over 300 million units sold across platforms. Other major titles include *Grand Theft Auto V* (~225 million) and *Wii Sports* (~82 million), highlighting consistent player engagement across genres and systems. :contentReference[oaicite:0]{index=0}
 
-Market Trends: How have sales evolved over the decades across different genres?.
+**2. Which year had the highest sales? Is the industry growing over time?**  
+Historical data indicates the **industry sales peaked around the late 2000s to early 2010s** in many video game datasets, particularly around 2008–2010, which saw significant console and software sales before more diversified digital growth. :contentReference[oaicite:1]{index=1}  
+Overall, the video game market continues to **grow year after year**, with global video game market revenue reaching over $180 billion in recent years and projected to grow further into the next decade. :contentReference[oaicite:2]{index=2}
 
-Quality vs. Sales: Does a high Metascore (Critic Score) always translate to higher sales figures?.
+**3. Do any consoles seem to specialize in a particular genre?**  
+Analysis across platforms shows genre preferences: for example, PlayStation consoles often show strong sales in **Action and Shooter genres**, while Nintendo platforms (Wii, Switch) excel with **family‑friendly, platform, and party games**. :contentReference[oaicite:3]{index=3}
+
+**4. What titles are popular in one region but flop in another?**  
+Regional sales patterns reveal that some games perform differently across markets — for instance, *Wii Sports* shows very strong sales in North America and Europe, while certain franchises see stronger regional affinities (e.g., *Pokémon* performing better in Japan). :contentReference[oaicite:4]{index=4}
 
 💡 Key Business Insights
 
