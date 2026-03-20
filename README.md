@@ -6,6 +6,11 @@ Dataset: https://mavenanalytics.io/data-playground/video-game-sales/VG_Chartz24 
 Volume: Comprehensive transactional records covering games from 1980 to 2015+.  
 Scope: Global data including Region (NA, EU, JP, Others), Genre, Console/Platform, and Critic Scores.
 
+##  Live Interactive Dashboard
+I've published the interactive version of this report to the Power BI Cloud. You can explore the data and filters here:
+
+👉 [**View Live Project on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiMjM4ZDM1NDItNWIxNC00Mzc1LTk4OWEtN2I1Y2ZjZWQ4MGVkIiwidCI6Ijg2Yzk5YjhjLTc1MzMtNDVlMC1hYmUxLWFmZDE2NTBiYzdjOCIsImMiOjEwfQ%3D%3D)
+
 **Project Overview  
 Key Business Insights  **
 
